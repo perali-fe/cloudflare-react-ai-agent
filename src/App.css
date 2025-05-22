@@ -38,7 +38,6 @@ button, input, select, textarea {
 
 /* 应用布局 */
 .app {
-  max-width: 900px;
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
